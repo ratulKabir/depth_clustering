@@ -62,7 +62,7 @@ sudo apt install libopencv-dev libqglviewer-dev freeglut3-dev libqt5-dev
 sudo apt install libopencv-dev libqglviewer-dev-qt5 freeglut3-dev qtbase5-dev 
 ```
 
-You might also need the latest GoogleTest binary installed on your systems. As Ubuntu is not shipped with these binaries by default, you would have to install them yourself or adapt the build script to build them from source.
+You might also need the latest GoogleTest binary installed on your systems. As Ubuntu is not shipped with these binaries by default, you would have to install them yourself or adapt the build script to build them from source. [Check here](https://stackoverflow.com/questions/13513905/how-to-set-up-googletest-as-a-shared-library-on-linux)
 
 </details>
 
